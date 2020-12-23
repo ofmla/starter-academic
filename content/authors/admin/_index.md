@@ -70,5 +70,3 @@ highlight_name: true
 Oscar Mojica is a researcher in high performance computing area at the Senai Cimatec. The Senai Cimatec hosts several High Performance Computing (HPC) clusters available to faculty members, researchers, and students engaged in research activities. He is part of an interdisciplinary team who addresses fundamental problems in research and engineering that require computation and have broad research and economic impacts. Examples of these problems include climate modeling, computational geophysics, and many more.
 
 His research interests include parallel programming, as well as optimization and parallelization of large-scale scientific applications.
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
