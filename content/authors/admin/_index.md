@@ -71,4 +71,4 @@ Oscar Mojica is a researcher in high performance computing area at the Senai Cim
 
 His research interests include parallel programming, as well as optimization and parallelization of large-scale scientific applications.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
