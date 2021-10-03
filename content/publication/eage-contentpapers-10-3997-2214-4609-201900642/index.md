@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2020-12-23T19:00:19.605793Z'
 publication_types:
-- '2'
+- '6'
 abstract: The performance of two global optimization methods (GOMs) with embedded elitism strategies for solving the 2D acoustic seismic inverse problem is compared here using synthetic acoustic data of the Marmousi model. A real-coded elitist genetic algorithm (GA) that had been used successfully in the past to this end is compared with a newly developed elitist-mutated particle swarm optimization (EMPSO) technique to estimate acoustic macro models of the P-wave velocity field (Vp). We find that EMPSO seems to have higher performance than GA with respect to the final attained value of the cost function when the completion of specified number of iterations is chosen as stopping criterion. The results further show that while both EMPSO and the GA obtain high-quality solutions, the computational effort required by PSO to arrive at such high-quality solutions is less than the effort required to arrive at the same high-quality solutions by the GA. Finally, multiple runs of descent-based full waveform inversion (FWI) started from either final GA or EMPSO models produce high-resolution final models.
 publication: '*Conference Proceedings, 81st EAGE Conference and Exhibition 2019, Jun 2019, Volume 2019, p.1 - 5*'
 url_pdf: https://www.earthdoc.org/content/papers/10.3997/2214-4609.201900642

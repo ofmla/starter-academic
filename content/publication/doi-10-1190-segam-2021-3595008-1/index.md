@@ -32,9 +32,7 @@ projects: []
 publishDate: '2021-10-03T15:18:29.027211Z'
 publication_types:
 - '6'
-abstract: ' We investigate the use of a restarted Krylov subspace method for computing
-  the action of a function of large sparse matrix on a vector to numerically solve
-  the one-step wave extrapolation matrix We investigate the use of a restarted Krylov
+abstract: ' We investigate the use of a restarted Krylov
   subspace method for computing the action of a function of large sparse matrix on
   a vector to numerically solve the one-step wave extrapolation matrix (OSEM) method.
   The OSEM method belongs to a category exempt from stability and dispersion problems
