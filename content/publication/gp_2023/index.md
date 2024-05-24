@@ -14,8 +14,8 @@ imaging;
 inversion;
 numerical study"'
 categories: []
-date: '2022-04-02'
-lastmod: 2022-04-02
+date: '2023-17-02'
+lastmod: 2023-01-03
 featured: false
 draft: false
 
